@@ -8,5 +8,5 @@ This repository contains structured documentation covering foundational cloud co
 - Part 2: Cloud Benefits and Service Models
 - Part 3: Azure Compute and Networking
 
-Author: Divine Uzor# Cloud-Computing-Fundamentals
+Author: Divine Uzor
 
