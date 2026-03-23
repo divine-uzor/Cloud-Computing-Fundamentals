@@ -1,6 +1,6 @@
 # Cloud Fundamentals
 
-This repository contains structured documentation covering foundational cloud computing concepts including deployment models, benefits, and service types.
+This repository contains structured documentation covering foundational Azure cloud computing concepts including deployment models, benefits, and service types.
 
 ## Contents
 
