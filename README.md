@@ -60,4 +60,5 @@ The goal is to keep everything organized, detailed, and publicly accessible for 
 I'm Divine Uzor, a cloud engineer documenting my journey through cloud concepts and Azure services.
 
 LinkedIn: [linkedin.com/in/divine-uzor](https://www.linkedin.com/in/divine-uzor)
-⭐ If you find this helpful, feel free to star the repository!tory!
+
+⭐ If you find this helpful, feel free to star the repository!
